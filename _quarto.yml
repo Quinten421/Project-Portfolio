@@ -3,20 +3,26 @@ project:
   output-dir: docs
   
 website:
-  title: "Project-Portfolio"
+  title: "Quinten Robinson"
+  description: "Quinten Robinson, I am a Statistics Major."  
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: project.qmd
+        text: Project
 
 format:
   html:
     theme:
-      - cosmo
+      - minty
       - brand
     css: styles.css
     toc: true
 
-editor: visual
+editor: source
 

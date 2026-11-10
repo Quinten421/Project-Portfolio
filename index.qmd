@@ -1,11 +1,22 @@
 ---
-title: "Project-Portfolio"
+title: "Quinten Andrew Robinson"
 ---
 
-This is a Quarto website.
+## Key research interests
+  - Statistics: specifically applied statistics
+  - Math Communication: Very interested in how we talk about and convey to others about mathematics.
+  - Math Education: I am very passionate about how mathematics is taught in public schools especially.
+  - R Studio: My favorite thing in my undergrad was learning Rstudio and R as a whole.
+  
+## Favorite Classes
+  - Real Analysis
+  - Applied Stats 1 and 2
+  - Intro to Data Science
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Personal life
 
-```{r}
-1 + 1
-```
+I live in Chico California currently. I was born in Riverside California. I moved up because I wanted to get the college experience. I also fell in love with the campus as soon as I laid eyes on the campus all the way back in 2019.
+
+I chose Math initially because it was my natural affinity. Something in my brain chemistry made the numbers click. I now stay in math because having seen it all put together the intricacies and quirks are super interesting. Moving forward I would love to develop better bridges between students and Mathematics as a whole.
+
+I am a huge fighting game fan. I play Skullgirls 2nd Encore competitively. I am also a huge magic fan. I have been playing for 12 years running now and I have slowed but never stopped. In my free time I am probably doing one of those two things religiously.
