@@ -1,3 +1,10 @@
 ---
-title: "Projects"
+title: "Applied Stats 1"
 ---
+
+This was a semester long project where the goal was to take a pre existing data set and turn it into a poster. We spent two weeks picking out our data sets for this project. My project partner and I chose caterpillar ecology as our data set.
+
+The first month of the project was cleaning and reviewing the literature behind the research they conducted to collect the data. I wanted to know if the treatment they used actually impacted the caterpillar size whether it was negative or positive. Below is some code that I used to accomplish that task.
+
+The second month was using the data to test our hypothesis first bivariately then multivariately. Not only did I check to see if the nylon bag treatment was effective. I was also curious if the genus of the tree was effecting the caterpillars survivability as well. The code below is how I was able to look into this.
+

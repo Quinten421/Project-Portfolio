@@ -8,3 +8,8 @@ Sponsored by the Chico STEM Connections Collaborative or (CSC^2). I was able to 
 CHC is the office at Chico state that manages the EBT benefits, a Farmers Market program, and food out reach services. In 2022 they conducted a survey with a number of California schools in partnership with a coresearcher at University of California Los Angeles. They wanted to know more information as to why people who were eligible for EBT were not accessing this resource.
 
 My job was to make a website pages that were presentable to others so that they can continue to get funding for research such as this one. Then at the end of this research I had to give a ten minute lecture as to what I learned as a requirement from CSC^2. 
+
+The pages I was credited with building were the Demographics page and Self Actions Page. Which will be displayed below. I learned how to produce legible graphics, descriptions with R code outputs, and how to make appealing graphics as well. 
+
+First part of that research was on boarding, how to work with quarto websites, and training. Since this data involved humans I had to get a HIPPA certificate. I also had to get CITI certificate as well. That alone took a week for all the requirements to be met. 
+
