@@ -8,3 +8,4 @@ The first month of the project was cleaning and reviewing the literature behind 
 
 The second month was using the data to test our hypothesis first bivariately then multivariately. Not only did I check to see if the nylon bag treatment was effective. I was also curious if the genus of the tree was effecting the caterpillars survivability as well. The code below is how I was able to look into this.
 
+The final month we were taking our findings and turning it into presentables. This was done through R and google slides to one get the data into a presentable form so that we can share our findings with the other students in the class. We spent our final time slot to present the info to the others in an open share presentation format.
